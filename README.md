@@ -19,6 +19,7 @@ These skills are written to be harness-agnostic. They are intended for use in Cl
 | [local-first-legal-workspace](skills/local-first-legal-workspace/) | Agnostic | Audit privacy boundaries for local-first legal AI workspaces and BYOK workflows |
 | [legal-claim-economics](skills/legal-claim-economics/) | Agnostic | Model claim economics, funding structures, fee arrangements, and recovery waterfalls |
 | [corporate-registry-investigation](skills/corporate-registry-investigation/) | UK | Investigate UK companies using Companies House officers, PSCs, charges, and filings |
+| [foreign-law-research](skills/foreign-law-research/) | Cross-border / PRC outbound | Tiered foreign-law research workflow with source-authority hierarchy, certainty labels, timeliness discipline, and privilege / escalation guardrails (contributed by Chong Liu, MIT) |
 
 ## Source Access
 
